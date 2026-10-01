@@ -10,6 +10,8 @@
     echo "Hello World Why World";
     echo "Testing";
     
+    //this is a comment for testing it is working or not
+    echo "Testing GitHub connection";
     ?>
     
 </body>
